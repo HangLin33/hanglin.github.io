@@ -47,7 +47,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      tr      : &TR       Hakkında
+      tr      : &TR       
       # @end locale config
     url: /CV/
 
