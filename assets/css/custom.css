@@ -1,1 +1,8 @@
-<meta name="theme-color" content="#ffffff">
+/* ===== HARD RESET BACKGROUND ===== */
+html {
+  background-color: #ffffff !important;
+}
+
+body {
+  background-color: #ffffff !important;
+}
