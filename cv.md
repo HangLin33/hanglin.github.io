@@ -9,7 +9,7 @@ permalink: /cv/
 <iframe
   src="/assets/cv/Hang_Lin_Resume.pdf"
   width="90%"
-  height="700px"
+  height="1200px"
   style="border: none;"
 >
 </iframe>
