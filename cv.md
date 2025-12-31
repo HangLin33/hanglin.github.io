@@ -17,4 +17,4 @@ permalink: /cv/
 ---
 
 ⬇️ **Download PDF**  
-[Click here to download my CV](/assets/cv/Hang_Lin_Resume.pdf/
+[Click here to download my CV](/assets/cv/Hang_Lin_Resume.pdf)
