@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+class: experience-page
 permalink: /experience/
 ---
 
