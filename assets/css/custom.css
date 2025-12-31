@@ -1,5 +1,5 @@
-/* === Widen main content area === */
-.page__content {
+/* === Expand page width for TeXt theme === */
+.page__inner {
   max-width: 1400px !important;
   padding-left: 2.5rem;
   padding-right: 2.5rem;
