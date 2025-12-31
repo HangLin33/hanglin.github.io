@@ -1,6 +1,25 @@
-/* === Expand page width for TeXt theme === */
-.page__inner {
-  max-width: 1400px !important;
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
+/* ===== Force neutralize red debug styles ===== */
+
+/* Header / Nav */
+.site-header,
+.page__header,
+.header,
+.navbar {
+  background-color: #ffffff !important;
+}
+
+/* Active / hover states */
+.site-header a,
+.site-header a:hover,
+.site-header a:focus {
+  color: #2f2f2f !important;
+  border-color: transparent !important;
+}
+
+/* General background safety */
+body,
+.page,
+.page__inner,
+.page__content {
+  background-color: #ffffff !important;
 }
